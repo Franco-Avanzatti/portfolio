@@ -5,7 +5,7 @@ const Contact = () => {
     <div id="contacto" className="flex min-h-[50vh] min-w-full items-center justify-center ">
       <div className="flex flex-col items-center justify-center gap-4 space-y-6 p-14">
         <h1 className="w-full text-center text-2xl md:text-2xl text-gray-500">
-          Si te interesa que trabajemos juntos, hacé click en el botón de abajo para contactarme.
+          Con mis hablidades podemos logragrar que su vision sea una realidad.
         </h1>
 
         
