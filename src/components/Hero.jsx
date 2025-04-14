@@ -28,9 +28,11 @@ const Hero = () => {
           <h3 className="bg-gradient-to-r from-pink-500 to-blue-500 bg-clip-text text-transparent  text-2xl md:text-3xl">
             Desarrollador Front-End
           </h3>
-          <p className="md:text-base text-pretty text-sm text-gray-400">
-          Soy un apasionado desarrollador Front-End especializado en aplicaciones web dinámicas y responsivas. Me mantengo actualizado con las últimas tecnologías y actualmente estoy aprendiendo Back-End para convertirme en desarrollador Full-Stack.
-          </p>
+            <p className="md:text-base text-pretty text-sm text-gray-400">
+              Mi nombre es Franco Avanzatti y soy un desarrollador Front-End con más de dos años de experiencia trabajando como freelance para clientes y agencias de todo el mundo.
+              Me especializo en la creación de aplicaciones web dinámicas, responsivas e intuitivas.<br></br>Mi trabajo se basa en el compromiso de ofrecer soluciones innovadoras, eficientes y de alta calidad, adaptadas a las necesidades del cliente.
+              Busco crear soluciones estables y de alto rendimiento, tanto en Front End como en Back End.
+            </p>
         </motion.div>
 
 
