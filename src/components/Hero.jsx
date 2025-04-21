@@ -29,7 +29,7 @@ const Hero = () => {
             Desarrollador Front-End
           </h3>
             <p className="md:text-base text-pretty text-sm text-gray-400">
-              Mi nombre es Franco Avanzatti y soy un desarrollador Front-End con más de dos años de experiencia trabajando como freelance para clientes y agencias de todo el mundo.
+              Mi nombre es Franco Avanzatti y soy un desarrollador Full-Stack con más de dos años de experiencia trabajando como freelance para clientes y agencias de todo el mundo.
               Me especializo en la creación de aplicaciones web dinámicas, responsivas e intuitivas.<br></br>Mi trabajo se basa en el compromiso de ofrecer soluciones innovadoras, eficientes y de alta calidad, adaptadas a las necesidades del cliente.
               Busco crear soluciones estables y de alto rendimiento, tanto en Front End como en Back End.
             </p>

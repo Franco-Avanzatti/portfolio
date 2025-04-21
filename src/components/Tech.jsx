@@ -1,4 +1,4 @@
-import { BiLogoBootstrap, BiLogoJavascript, BiLogoNodejs, BiLogoReact, BiLogoTailwindCss} from "react-icons/bi";
+import { BiLogoBootstrap, BiLogoJavascript, BiLogoNodejs, BiLogoReact, BiLogoTailwindCss, BiLogoMongodb} from "react-icons/bi";
 import { motion } from "framer-motion";;
 
 const Tech = () => {
@@ -41,6 +41,15 @@ const Tech = () => {
         transition={{ duration: 0.5 }}>
         <BiLogoReact className="cursor-pointer text-[80px] text-blue-300 transition-all duration-300 hover:-translate-y-5 sm:text-[100px] md:text-[120px]"/>
         </motion.div>  
+
+        <motion.div  variants={variants}
+        initial= "hidden"
+        whileInView="visible"
+        transition={{ duration: 0.5 }}>
+        <BiLogoMongodb className="cursor-pointer text-[80px] text-green-800 transition-all duration-300 hover:-translate-y-5 sm:text-[100px] md:text-[120px]"/>
+        </motion.div>
+
+        
 
         <motion.div  variants={variants}
         initial= "hidden"

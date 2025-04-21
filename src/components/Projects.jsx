@@ -6,8 +6,8 @@ const projectsData = [
     title: "Quesería del Campo",
     description: "WEB E-COMMERCE DE VENTA DE QUESOS Y FIAMBRES 🧀🧀\nLa idea de esta WEB es programar un E-commerce en el cual el usuario elige entre los distintos productos y cantidad de ellos para luego finalizar la compra.",
     tecnologias: ["Grids", "Pseudoclases", "Bootstrap", "Animaciones", "Sass"],
-    deploy: "https://queseriadelcampo.vercel.app/",
-    repository: "https://github.com/Franco-Avanzatti/PF-Avanzatti"
+    deploy: "https://e-commerce-queseria.vercel.app/",
+    repository: "https://github.com/Franco-Avanzatti/e-commerce-queseria"
   },
   {
     image: "/portfolio1.png",
