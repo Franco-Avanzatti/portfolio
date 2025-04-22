@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 
 const projectsData = [
   {
-    image: "/portfolio2.png",
+    image: "/portfolio.png",
     title: "Quesería del Campo",
     description: "WEB E-COMMERCE DE VENTA DE QUESOS Y FIAMBRES 🧀🧀\nLa idea de esta WEB es programar un E-commerce en el cual el usuario elige entre los distintos productos y cantidad de ellos para luego finalizar la compra.",
     tecnologias: ["Grids", "Pseudoclases", "Bootstrap", "Animaciones", "Sass"],
