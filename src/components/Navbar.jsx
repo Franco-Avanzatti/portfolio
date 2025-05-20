@@ -65,15 +65,15 @@ const Navbar = () => {
           <li>Home</li>
         </a>
 
-        <a href="#home" className="cursor-pointer opacity-70 transition-all duration-300 hover:opacity-100">
+        <a href="#tecnologia" className="cursor-pointer opacity-70 transition-all duration-300 hover:opacity-100">
           <li>Tecnología</li>
         </a>
 
-        <a href="#home" className="cursor-pointer opacity-70 transition-all duration-300 hover:opacity-100">
+        <a href="#proyectos" className="cursor-pointer opacity-70 transition-all duration-300 hover:opacity-100">
           <li>Proyectos</li>
         </a>
 
-        <a href="#home" className="cursor-pointer opacity-70 transition-all duration-300 hover:opacity-100">
+        <a href="#contacto" className="cursor-pointer opacity-70 transition-all duration-300 hover:opacity-100">
           <li>Contacto</li>
         </a>
           </ul>
