@@ -26,7 +26,7 @@ const Hero = () => {
             Franco Avanzatti
           </h1>
           <h3 className="bg-gradient-to-r from-pink-500 to-blue-500 bg-clip-text text-transparent  text-2xl md:text-3xl">
-            Desarrollador Front-End
+            Desarrollador Full-Stack
           </h3>
             <p className="md:text-base text-pretty text-sm text-gray-400">
               Mi nombre es Franco Avanzatti y soy un desarrollador Full-Stack con más de dos años de experiencia trabajando como freelance para clientes y agencias de todo el mundo.
