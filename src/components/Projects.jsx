@@ -17,6 +17,14 @@ const projectsData = [
     deploy: "https://panama-music.vercel.app/",
     repository: "https://github.com/Franco-Avanzatti/React"
   },
+  {
+    image: "/arkanoid.png",
+    title: "Arkanoid con JavaScript",
+    description: "Juegos clásicos",
+    tecnologias: ["HTML5", "Javascript"],
+    deploy: "https://https://arkanoid-coral.vercel.app/",
+    repository: "https://github.com/Franco-Avanzatti/arkanoid"
+  },
 ];
 
 const ScrollReveal = ({ children }) => {
