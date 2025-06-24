@@ -20,11 +20,11 @@ const projectsData = [
   {
     image: "/arkanoid.png",
     title: "Arkanoid con JavaScript",
-    description: "Juegos clásicos",
-    tecnologias: ["HTML5", "Javascript"],
-    deploy: "https://https://arkanoid-coral.vercel.app/",
+    description: "REMAKE DEL JUEGO CLÁSICO ARKANOID 🎮\nEste proyecto recrea el mítico juego Arkanoid utilizando solo HTML5 y JavaScript puro. El jugador controla una paleta para evitar que la bola caiga, mientras rompe bloques para sumar puntos.",
+    tecnologias: ["HTML5", "JavaScript", "Canvas"],
+    deploy: "https://arkanoid-coral.vercel.app/",
     repository: "https://github.com/Franco-Avanzatti/arkanoid"
-  },
+  }
 ];
 
 const ScrollReveal = ({ children }) => {
